@@ -29,5 +29,5 @@
 
 
 ```
-A curated collection of high-resolution wallpapers, organized by category and synced across multiple devices. 
+A collection of peak wallpapers, organized by category and synced across multiple devices. 
 
